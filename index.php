@@ -154,10 +154,10 @@
             <h6 class="font_6" style="font-size:61px; text-align:center;">
                 <a href="" target="_self">
                     <span style="text-shadow:rgba(0, 0, 0, 0.4) 0px 4px 5px;">
-                        <span style="font-size:61px;">
+                        <span class="home-big-title">
                             <span style="font-family:caudex,serif;">
                                 <span style="color:#F29E02;">
-                                    <span style="letter-spacing:0.25em;">UMRAH&nbsp;PACKAGES</span>
+                                    <span>UMRAH PACKAGES</span>
                                 </span>
                             </span>
                         </span>
@@ -259,10 +259,10 @@
             <h6 class="font_6" style="font-size:61px; text-align:center;">
                 <a href="" target="_self">
                     <span style="text-shadow:rgba(0, 0, 0, 0.4) 0px 4px 5px;">
-                        <span style="font-size:61px;">
+                        <span class="home-big-title">
                             <span style="font-family:caudex,serif;">
                                 <span style="color:#F29E02;">
-                                    <span style="letter-spacing:0.25em;">HAJJ&nbsp;PACKAGES</span>
+                                    <span>HAJJ PACKAGES</span>
                                 </span>
                             </span>
                         </span>
@@ -340,10 +340,10 @@
             <h6 class="font_6" style="font-size:61px; text-align:center;">
                 <a href="" target="_self">
                     <span style="text-shadow:rgba(0, 0, 0, 0.4) 0px 4px 5px;">
-                        <span style="font-size:61px;">
+                        <span class="home-big-title">
                             <span style="font-family:caudex,serif;">
                                 <span style="color:#F29E02;">
-                                    <span style="letter-spacing:0.25em;">Hotels</span>
+                                    <span>Hotels</span>
                                 </span>
                             </span>
                         </span>
@@ -493,11 +493,11 @@
                         <div class="col-sm-6 col-md-3">
                             <h2>Useful Links</h2>
                             <div class="footer-links">
-                                <h6><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></h6>
-                                <h6><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></h6>
-                                <h6><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></h6>
-                                <h6><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></h6>
-                                <h6><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></h6>
+                                <p><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></p>
+                                <p><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></p>
+                                <p><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></p>
+                                <p><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></p>
+                                <p><a href=""> <i class="fa fa-arrow-right"></i> <b>www.demo.com</b></a></p>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-3">
@@ -587,18 +587,14 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<!--     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
     <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
     <script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
 
-    <!-- <script src="js/jquery.min.js"></script> -->
-    <script src="js/modernizr-2.7.1.js"></script>
 
-    <!-- <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script> -->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-    <!-- UI -->
+    <!--jQuery UI -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 

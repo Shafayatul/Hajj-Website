@@ -365,6 +365,11 @@ li.instagram a:hover {
         text-align: center;
     }
 
+    .home-big-title{
+        font-size: 43px;
+        letter-spacing: 0.17em;
+    }
+
 }
 
 @media screen and (min-width: 769px) {
@@ -377,4 +382,9 @@ li.instagram a:hover {
         text-align: right;
     }
 
+
+    .home-big-title{
+        font-size: 61px;
+        letter-spacing: 0.25em;
+    }
 }
